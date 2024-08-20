@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scrucher
 - 👀 I’m interested in web dev && pentesting
-- 🌱 I’m currently a fullstack javascript developer Nodejs / TypeScript / VueJs
+- 🌱 I’m currently a fullstack javascript developer Nodejs / TypeScript / Reactjs
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me faicaleljabli77@gmail.com
 
